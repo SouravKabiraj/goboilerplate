@@ -1,0 +1,5 @@
+services:
+  todo:
+    ports:
+      - "8080:8080"
+    image: "goboilerplate:latest"
